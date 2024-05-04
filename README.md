@@ -13,7 +13,7 @@ Hibernate
 MySQL (Assumed as the database)
 
 Installation
-* Clone the repository: git clone https://github.com/dice/rapidapi.git
+* Clone the repository: git clone https://github.com/prabhatkumarjhagithub/DiceAssignment
 * Navigate to the project directory: cd rapidapi
 Build the project: ./mvnw clean package
 * Run the application: java -jar target/rapidapi-0.0.1-SNAPSHOT.jar
